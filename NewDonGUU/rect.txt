@@ -1,0 +1,51 @@
+<style type="text/css">* {font-family: Helvetica Neue;}</style>
+<div align="center" style="padding-left: 50px; padding-right: 50px; font-size:12px;">
+
+<div style="text-align: center"><img src="apovazhnyi.jpg" border="0" alt="Поважний О.С." width="170px"></div>
+<div style="text-align: center;">Ректор —&nbsp;<strong>Поважний Олександр Станіславович</strong>, доктор економічних наук, професор,   академік АЕН України, Заслужений працівник освіти України, лауреат премії Президента України для молодих вчених </div>
+
+<br />
+<br />
+<br />
+
+<div>
+<div style="text-align: center"><img src="tokareva.jpg" border="0" alt="Токарева В.І."></div>
+<div style="text-align: center;">Проректор з навчальної роботи —&nbsp;<strong>Токарева Валентина Іванівна</strong>,    доктор наук з державного управління, професор,   член-кор. АЕН України </div>
+</div>
+<br />
+<br />
+
+
+<div>
+<div style="text-align: center;"><img src="f-01.jpg" border="0" alt="Смерічевський Сергій Францович" width="130px"></div>
+<div style="text-align: center;">Проректор з навчальної роботи —&nbsp;<strong>Смерічевський Сергій Францович</strong>,   доктор економічних наук, професор </div></div>
+<br />
+<br />
+
+
+
+<div>
+<div style="text-align: center"><img src="dorofienko.jpg" border="0" alt="Дорофієнко Вячеслав Володимирович" width="130px"></div>
+<div style="text-align: center;">Проректор з наукової роботи  <strong>Дорофієнко Вячеслав Володимирович</strong>, доктор економічних наук,  професор, академік АЕН України, Заслужений працівник освіти</div>
+</div>
+<br />
+<br />
+
+
+
+<div>
+<div style="text-align: center"><img src="stoyka.jpg" border="0" alt="Стойка А.В."></div>
+<div style="text-align: center;">проректор з міжнародних зв`язків та&nbsp;виховної роботи — <strong>Стойка Андрій Васильович</strong>, доктор наук з державного управління, доцент</div>
+</div>
+<br />
+<br />
+
+
+<div>
+<div style="text-align: center"><img src="vladimirov.jpg" border="0" alt="Владимиров Валерій Костянтинович" width="145px"></div>
+<div style="text-align: center;">
+проректор із соціального розвитку —&nbsp;<strong>Владимиров Валерій Костянтинович</strong></div>
+</div>
+<br />
+<br />
+

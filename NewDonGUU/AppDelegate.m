@@ -62,9 +62,7 @@
         self.window.rootViewController = navigationController;
 
     }
-//    UIAlertView * alert = [[UIAlertView alloc] initWithTitle:@"Reachability" message:[self stringFromStatus:status] delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
-//    [alert show];
-//
+
 //    
     timerStarnApp = [NSTimer scheduledTimerWithTimeInterval:TIME_START_APP
                                                                target:self

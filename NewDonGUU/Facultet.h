@@ -12,7 +12,7 @@
 
 @property (nonatomic, copy) NSString * name;
 @property (nonatomic, copy) NSString * logotip;
-@property (nonatomic, copy) NSString * description;
+@property (nonatomic, copy) NSString * descriptionFacultet;
 
 + (id) facultetsWithData:(NSString *)nam logotip:(NSString *)logo description: (NSString *) desc;
 

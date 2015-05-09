@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4859ED63-CAA5-4864-96B0-FC0ABEB80451</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NewDonGUU</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1BC4904C4F040DCE09A5A0639ED8FEF3BD6FE78</key>
+		<string>https://github.com/PrinceGosplana/DonGuu</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NewDonGUU.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1BC4904C4F040DCE09A5A0639ED8FEF3BD6FE78</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PrinceGosplana/DonGuu</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1BC4904C4F040DCE09A5A0639ED8FEF3BD6FE78</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1BC4904C4F040DCE09A5A0639ED8FEF3BD6FE78</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DGUU</string>
+		</dict>
+	</array>
+</dict>
+</plist>

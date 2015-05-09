@@ -14,7 +14,7 @@
     Facultet * facultet = [Facultet new];
     facultet.name = nam;
     facultet.logotip = logo;
-    facultet.description = desc;
+    facultet.descriptionFacultet = desc;
     return facultet;
 }
 @end

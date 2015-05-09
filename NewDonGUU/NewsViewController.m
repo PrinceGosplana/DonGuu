@@ -151,7 +151,7 @@
         news.title = titileArray[idx];
         news.date = dateArray[idx];
         news.image = imageDataArray[idx];
-        news.description = descriptionArray[idx];
+        news.descriptionNews = descriptionArray[idx];
         news.indexCategory = indexArray[idx];
         [returnNews addObject:news];
     }];

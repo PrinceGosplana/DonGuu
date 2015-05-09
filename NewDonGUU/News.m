@@ -17,7 +17,7 @@
         self.title = t;
         self.date = date;
         self.image = img;
-        self.description = desc;
+        self.descriptionNews = desc;
         self.indexCategory = indC;
     }
     return self;

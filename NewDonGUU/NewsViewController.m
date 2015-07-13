@@ -551,7 +551,7 @@
                                   regularExpressionWithPattern:@"\\{.+?\\}"
                                   options:NSRegularExpressionCaseInsensitive
                                   error:NULL];
-    NSMutableString * str = [[NSMutableString alloc]initWithString:news.description];
+    NSMutableString * str = [[NSMutableString alloc]initWithString:news.descriptionNews];
     
     [regex replaceMatchesInString:str
                           options:0

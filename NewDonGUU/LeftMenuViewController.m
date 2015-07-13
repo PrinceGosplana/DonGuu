@@ -31,9 +31,9 @@
         UITableView *tableView;
         if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
         {
-            tableView = [[UITableView alloc] initWithFrame: CGRectMake(100, 150 , 400, 84 * 8) style:UITableViewStylePlain];
+            float tableHeight = 84 * titles.count;
+            tableView = [[UITableView alloc] initWithFrame: CGRectMake(100, ([UIScreen mainScreen].bounds.size.height -tableHeight)/2, 400, 84 * 8) style:UITableViewStylePlain];
             tableView.rowHeight = 100;
-//            tableView
         }
         else{
             tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, (self.view.frame.size.height - 54 * 8) / 2.0f, self.view.frame.size.width, 54 * 8) style:UITableViewStylePlain];

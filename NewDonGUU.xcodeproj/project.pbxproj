@@ -1098,7 +1098,7 @@
 				ORGANIZATIONNAME = MyiPod;
 				TargetAttributes = {
 					C3D1C11218E44CEC005E1F5F = {
-						DevelopmentTeam = 6YS543PK7K;
+						DevelopmentTeam = 9E3N64F2YY;
 					};
 					C3D1C13618E44CEC005E1F5F = {
 						TestTargetID = C3D1C11218E44CEC005E1F5F;
@@ -1501,7 +1501,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Oleksandr Isaiev (MNE6D5VE2L)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -1524,7 +1524,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Oleksandr Isaiev (MNE6D5VE2L)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",

@@ -409,6 +409,17 @@
     matchMy = [matchMy substringToIndex:[matchMy length] - 1];
     return matchMy;
 }
+
+#pragma mark - UIWebview delegate
+
+- (BOOL)webView:(UIWebView *)webView shouldStartLoadWithRequest:(NSURLRequest *)request navigationType:(UIWebViewNavigationType)navigationType {
+    if (navigationType == UIWebViewNavigationTypeLinkClicked ) {
+        [[UIApplication sharedApplication] openURL:[request URL]];
+        return NO;
+    }
+    return YES;
+}
+
 #pragma mark -
 #pragma mark MWFeedParserDelegate
 
